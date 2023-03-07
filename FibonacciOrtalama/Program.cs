@@ -7,7 +7,7 @@ namespace FibonacciOrtalama
         static void Main(string[] args)
         {
             Console.WriteLine("Ortalamasını öğrenmek istediğiniz Fibonacci Dizisinin derinliğini giriniz!");
-            sayıGir: int derinlik = Convert.ToInt32(Console.ReadLine());
+            sayıGir: int derinlik = int.Parse(Console.ReadLine());
             if (derinlik<3)
             {
                 Console.WriteLine("Lütfen 2'den büyük bir pozitif tamsayı giriniz");
