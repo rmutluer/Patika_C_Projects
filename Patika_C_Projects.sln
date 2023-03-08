@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma", "Algoritma\Algo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma2", "Algoritma2\Algoritma2.csproj", "{CDCA647B-DB8F-4182-95A9-AAEB55875504}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlanHesaplama", "AlanHesaplama\AlanHesaplama.csproj", "{1457D520-3499-4D91-83D8-B2C384B26D21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CDCA647B-DB8F-4182-95A9-AAEB55875504}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDCA647B-DB8F-4182-95A9-AAEB55875504}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDCA647B-DB8F-4182-95A9-AAEB55875504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1457D520-3499-4D91-83D8-B2C384B26D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1457D520-3499-4D91-83D8-B2C384B26D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1457D520-3499-4D91-83D8-B2C384B26D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1457D520-3499-4D91-83D8-B2C384B26D21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
