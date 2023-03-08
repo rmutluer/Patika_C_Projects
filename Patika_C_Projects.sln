@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlanHesaplama", "AlanHesapl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerIkılıToplam", "IntegerIkılıToplam\IntegerIkılıToplam.csproj", "{58BD6D48-6B20-4E71-954D-4C1CE4E2754E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutlakKareAlma", "MutlakKareAlma\MutlakKareAlma.csproj", "{BDEE8CB7-C118-4141-BB4A-C142A50772F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{58BD6D48-6B20-4E71-954D-4C1CE4E2754E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58BD6D48-6B20-4E71-954D-4C1CE4E2754E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58BD6D48-6B20-4E71-954D-4C1CE4E2754E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDEE8CB7-C118-4141-BB4A-C142A50772F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEE8CB7-C118-4141-BB4A-C142A50772F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEE8CB7-C118-4141-BB4A-C142A50772F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEE8CB7-C118-4141-BB4A-C142A50772F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
